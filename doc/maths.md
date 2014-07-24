@@ -378,7 +378,7 @@ For more than 4 dimensions, you can use a storage:
 This function is more accurate than [log()](#torch.log) for small values of x.
 
 <a name="torch.pow"/>
-### [res] torch.pow([res,] x) ###
+### [res] torch.pow([res,] x, n) ###
 <a name="torch.Tensor.pow"/>
 
 `y=torch.pow(x,n)` returns a new tensor with the elements of x to the power of n.
