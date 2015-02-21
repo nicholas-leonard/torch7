@@ -1,7 +1,7 @@
 <a name="torch.utility.dok"></a>
-# Torch utility functions #
+# Class Functions #
 
-This functions are used in all Torch package for creating and handling classes.
+These functions are used in all Torch package for creating and handling classes.
 The most interesting function is probably [torch.class()](#torch.class) which allows
 the user to create easily new classes. [torch.typename()](#torch.typename) might
 also be interesting to check what is the class of a given Torch object.
