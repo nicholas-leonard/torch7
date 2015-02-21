@@ -6,10 +6,8 @@ markdown_extensions: [extra]
 docs_dir : doc
 pages:
 - [index.md, Home]
-- [tensoroverview.md, Tensor Library, Overview]
-- [tensor.md, Tensor Library, Basic Interface]
-- [maths.md, Tensor Library, Mathematical Operations]
-- [blas.md, Tensor Library, Basic Linear Algebra Subroutines]
+- [tensor.md, Tensor Library, Tensor]
+- [maths.md, Tensor Library, Tensor Math]
 - [storage.md, Tensor Library, Storage]
 - [file.md, File I/O Library, File Interface]
 - [diskfile.md, File I/O Library, Disk File]
