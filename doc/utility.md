@@ -252,6 +252,7 @@ This is different from the _class_ id returned by [torch.id()](#torch.id).
 
 Sets the default tensor type for all the tensors allocated from this
 point on. Valid types are:
+
   * `torch.ByteTensor`
   * `torch.CharTensor`
   * `torch.ShortTensor`

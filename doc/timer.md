@@ -41,6 +41,7 @@ Stop the timer. The accumulated time counted until now is stored.
 
 Returns a table reporting the accumulated time elapsed until now. Following the UNIX shell `time` command,
 there are three fields in the table:
+
   * `real`: the wall-clock elapsed time.
   * `user`: the elapsed CPU time. Note that the CPU time of a threaded program sums time spent in all threads.
   * `sys`: the time spent in system usage.
