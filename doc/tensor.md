@@ -3,9 +3,8 @@
 
 The `Tensor` class is probably the most important class in
 `Torch`. Almost every package depends on this class. It is *__the__*
-class for handling numeric data. As with   pretty much anything in
-[Torch7](./../index.md), tensors are
-[serializable](file.md#torch.File.serialization).
+class for handling numeric data. As with pretty much anything in
+Torch, tensors are [serializable](file.md#torch.File.serialization).
 
 __Multi-dimensional matrix__
 
